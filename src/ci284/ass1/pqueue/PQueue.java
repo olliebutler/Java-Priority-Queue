@@ -1,17 +1,4 @@
-/*
- * 
- * The time complexity of my insertion method is O(N). 
- * The best case scenario it would be if the item is going to be added at the front of the queue 
- * this would then take 1 step to insert the item, O(1). The worse case scenario would be if it was 
- * going to be inserted last in the queue, this would take N steps with N being the length of the queue, O(N).
- *  The average case would be O(N). Time complexity is the measure of how much time it will take to run an 
- *  algorithm compared to the input. Memory complexity is how much memory an algorithm will use compared to the input. 
- *  If we decided to store the priority queue in an array rather than a linked list the complexity may vary based on 
- *  weather the array is sorted or not. If the array was sorted then the complexity of the insert would be the same 
- *  as using a linked list but if the array is not sorted then the complexity for insertion would be O(1), on the 
- *  down side the complexity for pop/peek would both be increased form O(1) to O(N). 
- * 
- * */
+
 
 
 package ci284.ass1.pqueue;
