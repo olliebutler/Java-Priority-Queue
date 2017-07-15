@@ -1,3 +1,3 @@
 # Java-Priority-Queue
 
-A java implimentation of a priority queue
+A java implementation of a priority queue
